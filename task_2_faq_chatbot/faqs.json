@@ -1,0 +1,34 @@
+[
+  {
+    "question": "How do I create an account?",
+    "answer": "Select Sign Up on the home page, enter your name, email address, and password, then confirm your email."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Use the Forgot password link on the sign-in page. We will send a password-reset link to your registered email address."
+  },
+  {
+    "question": "Where can I find my enrolled courses?",
+    "answer": "After signing in, open My Learning from the navigation menu. Your active and completed courses are listed there."
+  },
+  {
+    "question": "Can I download course videos?",
+    "answer": "Some instructors allow videos to be downloaded in the mobile application. Download availability is shown on the lesson page."
+  },
+  {
+    "question": "How do I get a completion certificate?",
+    "answer": "A certificate becomes available on the course page after you complete every required lesson and pass any required assessment."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept major credit and debit cards, UPI, and the payment methods displayed during checkout."
+  },
+  {
+    "question": "Can I request a refund?",
+    "answer": "Refund eligibility depends on the course and purchase date. Visit the Help section with your order number to submit a request."
+  },
+  {
+    "question": "How do I contact instructor support?",
+    "answer": "Open the course discussion area and post your question. You can also use the Support option for account or billing issues."
+  }
+]
