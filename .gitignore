@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Music-generation data and training artefacts
+task_3_music_generation/data/raw_midi/
+task_3_music_generation/data/processed/
+task_3_music_generation/models/
+task_3_music_generation/output/
+
+# Object-detection downloads and recordings
+task_4_object_tracking/*.pt
+task_4_object_tracking/runs/
+task_4_object_tracking/output/
